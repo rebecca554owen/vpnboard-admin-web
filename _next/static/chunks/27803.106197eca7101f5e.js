@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[27803],{27803:function(s){s.exports=JSON.parse('{"saveSuccess":"Enregistrement r\xe9ussi"}')}}]);
